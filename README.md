@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaviPerazzoli
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning JavaScript, PHP, Python, HTML and CSS
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking for a job at my area (web development)
 - 📫 Contact: https://www.instagram.com/davi_perazzoli
 
