@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaviPerazzoli
 - 👀 I’m interested in developing web apps
-- 🌱 I’m currently learning about NEXT.JS
+- 🌱 I’m currently learning about Next.js
 - 💞️ I’m looking for a job at my area (web development)
 - 📫 Contact: https://www.instagram.com/davi_perazzoli
 
