@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @DaviPerazzoli
+- 📖 Currently attending UFSC Computer Science School
 - 👀 I’m interested in developing mobile apps
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking for a job at my area (mobile development)
