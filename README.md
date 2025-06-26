@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @DaviPerazzoli
-- 📖 Currently attending UFSC Computer Science School
-- 👀 I’m interested in developing mobile apps
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking for a job at my area (mobile development)
-- 📫 Contact: https://www.instagram.com/davi_perazzoli
+- 📖 Computer Science student at **UFSC** and a graduate of the Informatics Technician program at **IFC**
+- 👀 I’m interested in Computer Security
+- 📫 You can find me on **LinkedIn** or reach out via **email**.
+  - **LinkedIn:** https://www.linkedin.com/in/davi-fernando-perazzoli-1622b5251/
+  - **Email:** daviperazzoli28@gmail.com
 
 <!---
 DaviPerazzoli/DaviPerazzoli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
